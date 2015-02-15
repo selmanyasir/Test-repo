@@ -5,6 +5,6 @@ Here is some regular test.
 * bullet 1
 * bullet 2
 
-[Link to Google](htt://www.google.com/)
+[Link to Google](http://www.google.com/)
 
 More text.
